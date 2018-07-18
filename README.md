@@ -1,5 +1,5 @@
 # Brunei-Kiub-Project
-local web online E-commerce/marketing product or service in brunei darussalam
+Local web online E-commerce/marketing product or service in brunei darussalam
 
-this project is personal purpose for learning development.
+This project is personal purpose for learning development. i will be update my project soon.
 
